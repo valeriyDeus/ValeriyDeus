@@ -28,10 +28,10 @@ I'm a Front-End Developer from Ukraine
 
 ###  Projects
 
-- 🛍 [Createx Shop](https://github.com/valeriyDeus/Createx-shop) — eCommerce store
-- 🏗 [Createx Construction](https://github.com/valeriyDeus/Createx-construction) — a construction company website
-- 🛍 [Safari](https://github.com/valeriyDeus/Safari) — eCommerce store
-- 🛴 [Xiaomi Scooter](https://github.com/valeriyDeus/Xiaomi-scooter) — a product landing page
+- 🛍 [Createx Shop](https://valeriydeus.github.io/Createx-shop) — eCommerce store
+- 🏗 [Createx Construction](https://valeriydeus.github.io/Createx-construction) — a construction company website
+- 🛍 [Safari](https://valeriydeus.github.io/Safari) — eCommerce store
+- 🛴 [Xiaomi Scooter](https://valeriydeus.github.io/Xiaomi-scooter) — a product landing page
 - 🏥 [Clinic Website](https://valeriydeus.github.io/Clinic) – сorporate website for a medical clinic
 
 ### Socials
