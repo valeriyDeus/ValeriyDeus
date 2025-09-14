@@ -8,7 +8,7 @@ I'm a Front-End Developer from Ukraine
 * 🔭  I build **landing pages**, **eCommerce websites**, and **corporate websites** with clean structure, responsive design, and modern development tools.
 * ✉️  You can contact me at [valera1988ua15@gmail.com](mailto:valera1988ua15@gmail.com)
 * 🧠  I'm learning TypeScript
-* ⚙️  I use HTML, CSS, SCSS, JavaScript, Webpack, Gulp, Vite, Tailwind
+* ⚙️  I use HTML, CSS, SCSS, JavaScript, Webpack, Gulp, Vite
 * ✍️  Modular approach: components, libraries, helpers
 * 🤝  I'm open to collaborating on interesting projects
 
