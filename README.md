@@ -33,7 +33,7 @@ I'm a Front-End Developer from Ukraine
 - 🛍 [Safari](https://valeriydeus.github.io/Safari) — eCommerce store
 - 🛴 [Xiaomi Scooter](https://valeriydeus.github.io/Xiaomi-scooter/home.html) — a product landing page
 - 🏥 [Clinic Website](https://valeriydeus.github.io/Clinic) – сorporate website for a medical clinic
-- 💼 [Portfolio Website](https://valeriydeus.github.io/Arik) portfolio website
+- 💼 [Portfolio Website](https://valeriydeus.github.io/Arik) — portfolio website
 
 ### Socials
 
