@@ -34,6 +34,7 @@ I'm a Front-End Developer from Ukraine
 - 🛴 [Xiaomi Scooter](https://valeriydeus.github.io/Xiaomi-scooter/home.html) — a product landing page
 - 🏥 [Clinic Website](https://valeriydeus.github.io/Clinic) – сorporate website for a medical clinic
 - 💼 [Portfolio Website](https://valeriydeus.github.io/Arik) — portfolio website
+- 🏺 [ClayKingdom Website](https://valeriydeus.github.io/ClayKingdom/) — handmade ceramics & pottery store
 
 ### Socials
 
