@@ -28,6 +28,7 @@ I'm a Front-End Developer from Ukraine
 
 ###  Projects
 
+- 📱 [Mobile Store](https://valeriydeus.github.io/Mobile-store) — Responsive eCommerce project with product catalog, filters, and cart functionality.
 - 🛍 [Createx Shop](https://valeriydeus.github.io/Createx-shop) — eCommerce store
 - 🏗 [Createx Construction](https://valeriydeus.github.io/Createx-construction) — a construction company website
 - 🛍 [Safari](https://valeriydeus.github.io/Safari) — eCommerce store
